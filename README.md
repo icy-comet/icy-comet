@@ -1,14 +1,13 @@
 # Hi there &#128075;
+![header](header.png)
+
+<img src="https://github-readme-stats.vercel.app/api?username=icy-comet&count_private=true&show_icons=true&theme=nightowl&line_height=27&bg_color=1e2145" align="center">
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icy-comet&title_color=c491ee&text_color=8ddac8&bg_color=1e2145" align="center">
+<br/>
+<br/>
 
 Find me on my site @[aniketteredesai.com](https://aniketteredesai.com/)
 
-# Stats &#128202;
-
-<img src="https://github-readme-stats.vercel.app/api?username=icy-comet&count_private=true&show_icons=true&theme=graywhite&line_height=27&hide_title=true" align="center">
-
-# Most Used Languages &#128209;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icy-comet&title_color=000000&text_color=000000&hide_title=true" align="center">
-
-
-> Most used languages does not indicate my skill level or my proficiency with these technologies, it's just a GitHub metric of which languages have the most code on GitHub.
+> Most used languages do not indicate my skill level or my proficiency with these technologies. It's just a GitHub metric of which languages have the most code on GitHub.
