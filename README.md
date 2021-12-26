@@ -1,4 +1,3 @@
-# Hi there &#128075;
 ![header](header.png)
 
 <a href="https://github.com/icy-comet">
@@ -8,6 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icy-comet&title_color=c491ee&text_color=8ddac8&bg_color=1e2145&langs_count=3" align="center">
 </a>
 
+<br/>
 <br/>
 
 Find me on my site @[aniketteredesai.com](https://aniketteredesai.com/)
