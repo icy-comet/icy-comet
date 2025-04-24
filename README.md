@@ -10,6 +10,6 @@
 <br/>
 <br/>
 
-Find me on my site @[anikett.com](https://anikett.com/)
+Find me on my site @[anikett.dev](https://anikett.dev/)
 
 > Most used languages do not indicate my skill level or my proficiency with these technologies. It's just a GitHub metric of which languages have the most code on GitHub.
